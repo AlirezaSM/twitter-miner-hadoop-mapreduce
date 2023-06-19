@@ -1,4 +1,4 @@
-# Twitter Data Mining with Hadoop MapReduce: USA Election Analysis <img src="./images/usa-flag.png" width=50/>
+# Twitter Data Mining with Hadoop MapReduce: USA Election <img src="./images/usa-flag.png" width=50/>
 
 <p align='center'> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50"/> </a>ㅤ<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a></p>
 This project focuses on mining <a href="https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets?select=hashtag_joebiden.csv">Twitter data</a> related to the USA election between Trump and Biden. The data is stored in the Hadoop Distributed File System (HDFS), and the mining process is implemented using the MapReduce framework in Java. The project aims to provide insights into the election by performing three query tasks.
